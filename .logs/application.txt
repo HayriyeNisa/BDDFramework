@@ -1,0 +1,42 @@
+2020-07-30 19:43:07,685  INFO [main] SharedSD:29 - ****************************
+2020-07-30 19:43:07,691  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 19:43:14,681  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 19:43:14,682  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 19:43:14,682  INFO [main] SharedSD:51 - *****************************
+2020-07-30 20:52:34,988  INFO [main] SharedSD:29 - ****************************
+2020-07-30 20:52:34,994  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 20:52:43,589  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 20:52:43,589  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 20:52:43,590  INFO [main] SharedSD:51 - *****************************
+2020-07-30 20:56:11,680  INFO [main] SharedSD:29 - ****************************
+2020-07-30 20:56:11,685  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 20:56:20,281  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 20:56:20,282  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 20:56:20,283  INFO [main] SharedSD:51 - *****************************
+2020-07-30 20:57:23,320  INFO [main] SharedSD:29 - ****************************
+2020-07-30 20:57:23,327  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 20:57:29,254 ERROR [main] SharedSD:41 - Test failed!
+2020-07-30 20:57:30,549  INFO [main] SharedSD:51 - *****************************
+2020-07-30 20:57:30,770  INFO [main] SharedSD:29 - ****************************
+2020-07-30 20:57:30,771  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 20:57:33,964 ERROR [main] SharedSD:41 - Test failed!
+2020-07-30 20:57:35,916  INFO [main] SharedSD:51 - *****************************
+2020-07-30 20:57:36,082  INFO [main] SharedSD:29 - ****************************
+2020-07-30 20:57:36,083  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 20:57:39,335 ERROR [main] SharedSD:41 - Test failed!
+2020-07-30 20:57:40,631  INFO [main] SharedSD:51 - *****************************
+2020-07-30 21:03:18,364  INFO [main] SharedSD:29 - ****************************
+2020-07-30 21:03:18,369  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 21:03:23,910  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 21:03:23,911  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 21:03:23,913  INFO [main] SharedSD:51 - *****************************
+2020-07-30 21:03:24,091  INFO [main] SharedSD:29 - ****************************
+2020-07-30 21:03:24,091  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 21:03:26,903  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 21:03:26,905  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 21:03:26,905  INFO [main] SharedSD:51 - *****************************
+2020-07-30 21:03:27,168  INFO [main] SharedSD:29 - ****************************
+2020-07-30 21:03:27,169  INFO [main] SharedSD:30 - Test setup method is starting.....
+2020-07-30 21:03:30,041  INFO [main] SharedSD:47 - Cleanup!
+2020-07-30 21:03:30,041  INFO [main] SharedSD:48 - Test completed...!
+2020-07-30 21:03:30,041  INFO [main] SharedSD:51 - *****************************
